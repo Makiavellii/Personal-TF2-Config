@@ -9,11 +9,11 @@ Github repo to house my personal TF2 Config.
 **Q** - Weapon Slot 1  
 **W** - Weapon Slot 2  
 **R** - Weapon Slot 3  
-**Z** - Crouch  
 **A** - Call Medic  
 **SPACE** - Scope In  
 **MOUSE1** - Shoot  
 **MOUSE2** - Crouch Jump  
+**MOUSE4** - Crouch  
 **SCROLLUP** - Regular Jump  
 **SCROLLDWN** - Regular Jump  
 
