@@ -18,7 +18,7 @@ Github repo to house my personal TF2 Config.
 **SCROLLDWN** - Regular Jump  
 
 # Settings
-**MOUSE** - Zowie FK1+  
+**MOUSE** - Zowie FK2  
 **MOUSEPAD** - CMSTORM Swift-RX XL  
 **DPI** - 800  
 **POLLING RATE** - 1000hz  
