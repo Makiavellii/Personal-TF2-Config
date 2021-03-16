@@ -25,5 +25,5 @@ Github repo to house my personal TF2 Config.
 **WINDOWS SENSITIVITY** - 6/11  
 **IN GAME SENSITIVITY** - 0.65   
 **EDPI** - 520 (dpi * ingame)  
-**DISTANCE** - 2.6feet/360 | 31.6in/360 | 80cm/360
+**DISTANCE** - 2.6feet/360 | 31.6in/360 | 80cm/360  
 **ZOOM SENSITIVITY RATIO** - 1
