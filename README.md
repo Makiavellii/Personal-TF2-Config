@@ -23,7 +23,7 @@ Github repo to house my personal TF2 Config.
 **DPI** - 800  
 **POLLING RATE** - 1000hz  
 **WINDOWS SENSITIVITY** - 6/11  
-**IN GAME SENSITIVITY** - 0.65   
-**EDPI** - 520 (dpi * ingame)  
-**DISTANCE** - 2.6feet/360 | 31.6in/360 | 80cm/360  
+**IN GAME SENSITIVITY** - 0.57   
+**EDPI** - 456 (dpi * ingame)  
+**DISTANCE** - 2.9feet/360 | 35.8in/360 | 91.14cm/360  
 **ZOOM SENSITIVITY RATIO** - 1
