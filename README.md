@@ -1,5 +1,7 @@
-# Personal-TF2-Config
-Github repo to house my personal TF2 Config. Download at your own risk. I can't help you if it breaks your game.
+# Personal TF2 Custom Folder
+Github repo to house my personal TF2 custom folder.  
+
+HUD is a stripped down version of broesel HUD which has a bunch of things removed which cause lag/stutters.
 
 # Binds
 **E** - Move Forward  
