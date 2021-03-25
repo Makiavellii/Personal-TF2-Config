@@ -17,7 +17,6 @@ HUD is a stripped down version of broesel HUD which has a bunch of things remove
 **MOUSE2** - Crouch Jump  
 **MOUSE4** - Crouch  
 **SCROLLUP** - Regular Jump  
-**SCROLLDWN** - Regular Jump  
 
 # Settings
 **MOUSE** - Glorious Model O-  
