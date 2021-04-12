@@ -29,4 +29,4 @@ HUD is a stripped down version of broesel HUD which has a bunch of things remove
 **DISTANCE** - 2.9feet/360 | 35.8in/360 | 91.14cm/360  
 **ZOOM SENSITIVITY RATIO** - 1  
 
-I use the [https://github.com/a1xd/rawaccel](raw accel) driver to make 1,600 DPI feel like 800. That way I get the benefits of 1,600 DPI with the same feeling as 800 DPI.
+I use the [raw accel](https://github.com/a1xd/rawaccel) driver to make 1,600 DPI feel like 800. That way I get the benefits of 1,600 DPI with the same feeling as 800 DPI.
