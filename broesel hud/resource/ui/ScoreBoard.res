@@ -1130,7 +1130,7 @@
 			"fieldName"			"HeadshotsLabel"
 			"font"				"surface10"
 			"fgcolor" 			"255 255 255 255"
-			"labelText"			"#TF_ScoreBoard_HeadshotsLabel"
+			"labelText"			"HS Kills:"
 			"textAlignment"		"east"
 			"xpos"				"337"
 			"xpos_minmode"		"129"

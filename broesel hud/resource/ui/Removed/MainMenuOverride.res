@@ -7,7 +7,7 @@
 //////////////////////
 // CASUAL/COMP RANK //
 //////////////////////
-"CycleRankTypeButton"
+	"CycleRankTypeButton"
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CycleRankTypeButton"
