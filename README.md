@@ -1,10 +1,10 @@
 # Personal TF2 Custom Folder
 Github repo to house my personal TF2 custom folder.  
 
-HUD is a stripped down version of broesel HUD which has a bunch of things removed which cause lag/stutters.
+HUD is a modified version of a HUD that nubbi was making.
 
 # Launch Options
--full -width 1920 -height 1080 -freq 144 -console -novid -nojoy -reuse -nosteamcontroller -nohltv -particles 1 -precachefontchars -r_emulate_gl  
+-32bit -full -width 1920 -height 1080 -freq 144 -console -novid -nojoy -reuse -nosteamcontroller -nohltv -particles 1 -precachefontchars -r_emulate_gl  
 
 # Binds
 **E** - Move Forward  
@@ -23,11 +23,11 @@ HUD is a stripped down version of broesel HUD which has a bunch of things remove
 
 # Settings
 **MOUSE** - Glorious Model O-  
-**MOUSEPAD** - CMSTORM Swift-RX XL  
-**DPI** - 1,800  
+**MOUSEPAD** - Ducky Flipper Extra R   
+**DPI** - 800  
 **POLLING RATE** - 1000hz  
 **WINDOWS SENSITIVITY** - 6/11  
-**IN GAME SENSITIVITY** - 0.253  
+**IN GAME SENSITIVITY** - 1.73 
 **EDPI** - 456 (dpi * ingame)  
-**DISTANCE** - 2.9feet/360 | 35.8in/360 | 91.14cm/360  
+**DISTANCE** - 30cm/360 | 11.8in/360  
 **ZOOM SENSITIVITY RATIO** - 1  
