@@ -70,7 +70,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"BlueTeamScore"
-		"font"										"m0rebold26"
+		"font"										"Size 26"
 		"fgcolor"   								"m0reblue"
 		"labelText"									"%blueteamscore%"
 		"textAlignment"								"west"
@@ -96,7 +96,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"BlueTeamScore2"
-		"font"										"m0rebold26"
+		"font"										"Size 26"
 		"fgcolor"   								"0 0 0 255"
 		"labelText"									"%blueteamscore%"
 		"textAlignment"								"west"
@@ -143,12 +143,34 @@
 		"draw_corner_height" 		"0"	
 		"scaleImage"				"1"
 	}
+
+	"MainBG2"
+	{
+		"ControlName"				"ScalableImagePanel"
+		"fieldName"					"MainBG"
+		"xpos"						"247"
+		"ypos"						"445"
+		"zpos"						"0"
+		"wide"						"360"
+		"tall"						"20"
+		"autoResize"				"0"
+		"pinCorner"					"0"
+		"visible"					"1"
+		"enabled"					"1"
+		"image"						"../hud/color_panel_brown"
+		
+		"src_corner_height"			"30"
+		"src_corner_width"			"30"
+		"draw_corner_width"			"0"
+		"draw_corner_height" 		"0"	
+		"scaleImage"				"1"
+	}
 	
 	"RedTeamScore"
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"RedTeamScore"
-		"font"										"m0rebold26"
+		"font"										"Size 26"
 		"fgcolor"   								"m0rered"
 		"labelText"									"%redteamscore%"
 		"textAlignment"								"east"
@@ -174,7 +196,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"RedTeamScore2"
-		"font"										"m0rebold26"
+		"font"										"Size 26"
 		"fgcolor"   								"0 0 0 255"
 		"labelText"									"%redteamscore%"
 		"textAlignment"								"east"
@@ -203,7 +225,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"ServerTimeLeft"
-		"font"										"m0refont11"
+		"font"										"Size 11"
 		"labelText"									"%servertimeleft%"
 		"textAlignment"								"center"
 		"xpos"										"c-75"
@@ -227,7 +249,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"ServerTimeLeft"
-		"font"										"m0refont11"
+		"font"										"Size 11"
 		"labelText"									"%servertimeleft%"
 		"textAlignment"								"center"
 		"xpos"										"c-74"
@@ -380,7 +402,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"KillsLabel"
-			"font"									"Harabara11"
+			"font"									"Size 11"
 			"labelText"								":"
 			"textAlignment"							"west"
 			"xpos"									"256"
@@ -403,7 +425,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"KillsLabelbg"
-			"font"									"Harabara11"
+			"font"									"Size 11"
 			"labelText"								":"
 			"textAlignment"							"west"
 			"xpos"									"257"
@@ -427,7 +449,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"KillsWhite"
-			"font"									"Harabara11"
+			"font"									"Size 11"
 			"labelText"								"%kills%"
 			"textAlignment"							"west"
 			"xpos"									"259"
@@ -450,7 +472,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"KillsWhitebg"
-			"font"									"Harabara11"
+			"font"									"Size 11"
 			"labelText"								"%kills%"
 			"textAlignment"							"west"
 			"xpos"									"260"
@@ -493,7 +515,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"DeathsLabel"
-			"font"									"Harabara11"
+			"font"									"Size 11"
 			"labelText"								":"
 			"textAlignment"							"west"
 			"xpos"									"293"
@@ -516,7 +538,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"DeathsLabelbg"
-			"font"									"Harabara11"
+			"font"									"Size 11"
 			"labelText"								":"
 			"textAlignment"							"west"
 			"xpos"									"294"
@@ -540,7 +562,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"DeathsWhite"
-			"font"									"Harabara11"
+			"font"									"Size 11"
 			"labelText"								"%deaths%"
 			"textAlignment"							"west"
 			"xpos"									"296"
@@ -563,7 +585,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"DeathsWhitebg"
-			"font"									"Harabara11"
+			"font"									"Size 11"
 			"labelText"								"%deaths%"
 			"textAlignment"							"west"
 			"xpos"									"297"
@@ -604,7 +626,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"DamageLabel"
-			"font"									"Harabara11"
+			"font"									"Size 11"
 			"labelText"								":"
 			"textAlignment"							"west"
 			"xpos"									"331"
@@ -627,7 +649,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"DamageLabelbg"
-			"font"									"Harabara11"
+			"font"									"Size 11"
 			"labelText"								":"
 			"textAlignment"							"west"
 			"xpos"									"332"
@@ -650,7 +672,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"DamageWhite"
-			"font"									"Harabara11"
+			"font"									"Size 11"
 			"labelText"								"%damage%"
 			"textAlignment"							"west"
 			"xpos"									"334"
@@ -673,7 +695,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"DamageWhitebg"
-			"font"									"Harabara11"
+			"font"									"Size 11"
 			"labelText"								"%damage%"
 			"textAlignment"							"west"
 			"xpos"									"335"
@@ -715,7 +737,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"HealingLabel"
-			"font"									"Harabara11"
+			"font"									"Size 11"
 			"labelText"								":"
 			"textAlignment"							"west"
 			"xpos"									"378"
@@ -738,7 +760,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"HealingLabelbg"
-			"font"									"Harabara11"
+			"font"									"Size 11"
 			"labelText"								":"
 			"textAlignment"							"west"
 			"xpos"									"379"
@@ -762,7 +784,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"HealingWhite"
-			"font"									"Harabara11"
+			"font"									"Size 11"
 			"labelText"								"%healing%"
 			"textAlignment"							"west"
 			"xpos"									"381"
@@ -785,7 +807,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"HealingWhitebg"
-			"font"									"Harabara11"
+			"font"									"Size 11"
 			"labelText"								"%healing%"
 			"textAlignment"							"west"
 			"xpos"									"382"
@@ -810,7 +832,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"MapName"
-		"font"										"Harabara11"
+		"font"										"Size 11"
 		"fgcolor"									"255 255 255 255 "
 		"labelText"									"%mapname%"
 		"textAlignment"								"east"
@@ -828,7 +850,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"MapNamebg"
-		"font"										"Harabara11"
+		"font"										"Size 11"
 		"fgcolor"									"17 17 17 255 "
 		"labelText"									"%mapname%"
 		"textAlignment"								"east"
