@@ -4,7 +4,7 @@ Github repo to house my personal TF2 custom folder.
 HUD is a modified version of a HUD that nubbi was making.
 
 # Launch Options
--32bit -full -width 1920 -height 1080 -freq 144 -console -novid -nojoy -reuse -nosteamcontroller -nohltv -particles 1 -precachefontchars -r_emulate_gl  
+-dxlevel 80 +clientport 27006-27014 -32bit -full -width 1920 -height 1080 -freq 144 -console -novid -nojoy -reuse -nosteamcontroller -nohltv -particles 1 -precachefontchars -r_emulate_gl  
 
 # Binds
 **E** - Move Forward  
@@ -23,11 +23,11 @@ HUD is a modified version of a HUD that nubbi was making.
 
 # Settings
 **MOUSE** - Glorious Model O-  
-**MOUSEPAD** - Ducky Flipper Extra R   
+**MOUSEPAD** - CMStorm Swift-RX XL   
 **DPI** - 800  
 **POLLING RATE** - 1000hz  
 **WINDOWS SENSITIVITY** - 6/11  
-**IN GAME SENSITIVITY** - 1.73  
-**EDPI** - 1,384 (dpi * ingame)  
-**DISTANCE** - 30cm/360 | 11.8in/360  
+**IN GAME SENSITIVITY** - 1.6875  
+**EDPI** - 1,350 (dpi * ingame)  
+**DISTANCE** - 30.78cm/360 | 12.1in/360  
 **ZOOM SENSITIVITY RATIO** - 1  
