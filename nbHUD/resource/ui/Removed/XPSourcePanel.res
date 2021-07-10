@@ -1,0 +1,6 @@
+/////////////////////////////
+// REMOVED FOR CAUSING LAG //
+/////////////////////////////
+"Resource/UI/XPSourcePanel.res"
+{		
+}

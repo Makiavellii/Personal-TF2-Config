@@ -75,7 +75,7 @@
 			"textAlignment"							"center"
 			"dulltext"								"0"
 			"brighttext"							"0"
-			"font"									"m0refont24"
+			"font"									"Size 24"
 			"fgcolor"   							"White"
 			"proportionaltoparent"					"1"
 		}
@@ -98,7 +98,7 @@
 			"textAlignment"							"center"
 			"dulltext"								"0"
 			"brighttext"							"0"
-			"font"									"m0refont24"
+			"font"									"Size 24"
 			"fgcolor"								"Black"
 			"proportionaltoparent"					"1"
 			

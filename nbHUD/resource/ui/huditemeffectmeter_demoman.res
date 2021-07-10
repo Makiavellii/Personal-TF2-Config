@@ -31,7 +31,7 @@
 		"textAlignment"								"east"
 		"dulltext"									"0"
 		"brighttext"								"0"
-		"font"										"TFFontSmall"
+		"font"										"Size 8"
 		"fgcolor_override" 							"White"
 	}
 
@@ -52,7 +52,7 @@
 		"textAlignment"								"east"
 		"dulltext"									"0"
 		"brighttext"								"0"
-		"font"										"m0refont24"
+		"font"										"Size 24"
 		"fgcolor_override" 							"White"
 	}
 	
@@ -73,7 +73,7 @@
 		"textAlignment"								"east"
 		"dulltext"									"0"
 		"brighttext"								"0"
-		"font"										"m0refont24"
+		"font"										"Size 24"
 		"fgcolor_override" 							"Black"
 		
 		"pin_to_sibling"							"ItemEffectMeterCount"

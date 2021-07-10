@@ -167,7 +167,7 @@ Scheme
 		ScrollBarSlider.border				"blank"			// nob color
 		ScrollBarSlider.BgColor				"blank"	// slider background color
 
-		SectionedListPanel.HeaderTextColor	"white"
+		SectionedListPanel.HeaderTextColor	"Blue"
 		SectionedListPanel.HeaderBgColor	"TransparentBlack"
 		SectionedListPanel.DividerColor		"TransparentBlack"
 		SectionedListPanel.TextColor		"white"
@@ -275,7 +275,7 @@ Scheme
 		"1"
 			{
 				"name"		"Product Sans"
-				"tall"		"8"
+				"tall"		"14"
 				"weight"	"0"
 				"antialias"	"1"
 				"dropshadow"	"1"

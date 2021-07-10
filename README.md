@@ -25,9 +25,9 @@ HUD is a modified version of a HUD that nubbi was making.
 **MOUSE** - Glorious Model O-  
 **MOUSEPAD** - CMStorm Swift-RX XL   
 **DPI** - 800  
-**POLLING RATE** - 1000hz  
+**POLLING RATE** - 500hz  
 **WINDOWS SENSITIVITY** - 6/11  
-**IN GAME SENSITIVITY** - 1.6875  
-**EDPI** - 1,350 (dpi * ingame)  
+**IN GAME SENSITIVITY** - 1.69  
+**EDPI** - 1,352 (dpi * ingame)  
 **DISTANCE** - 30.78cm/360 | 12.1in/360  
 **ZOOM SENSITIVITY RATIO** - 1  
