@@ -7,10 +7,10 @@
 		"spacer"									"5"
 		"name_width"								"57"
 		"horiz_inset"								"2"
-	}	
+	}
 
 	"CountdownLabel"
-	{	
+	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"CountdownLabel"
 		"font"										"m0refont24Shadow"
@@ -61,7 +61,7 @@
 			}
 		}
 
-		"paintbackground"							"0"	
+		"paintbackground"							"0"
 	}
 
 	"MatchDoors"
@@ -70,7 +70,7 @@
 		"fieldName"									"MatchDoors"
 		"xpos"										"0"
 		"ypos"										"0"
-		"zpos"										"2"		
+		"zpos"										"2"
 		"wide"										"f0"
 		"tall"										"f0"
 		"autoResize"								"0"
@@ -79,7 +79,7 @@
 		"enabled"									"1"
 		"fov"										"70"
 		"proportionaltoparent"						"1"
-		
+
 		"model"
 		{
 			"modelname"								"models/vgui/versus_doors.mdl"
@@ -103,7 +103,7 @@
 				"name"								"open"
 				"sequence"							"open"
 			}
-			
+
 			"animation"
 			{
 				"name"								"close"
@@ -117,21 +117,21 @@
 			}
 		}
 	}
-	
+
 	"RoundCounter"
 	{
 		"fieldName"									"RoundCounter"
 		"xpos"										"cs-0.5"
 		"ypos"										"-2"
-		"zpos"										"1"		
+		"zpos"										"1"
 		"wide"										"300"
 		"tall"										"0"
 		"visible"									"1"
 		"enabled"									"1"
 	}
-	
+
 	"RankUpLabel"
-	{	
+	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"RankUpLabel"
 		"font"										"HudFontMediumSmallBold"
@@ -154,7 +154,7 @@
 	}
 
 	"RankUpShadowLabel"
-	{	
+	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"RankUpShadowLabel"
 		"font"										"HudFontMediumSmallBold"
@@ -194,7 +194,7 @@
 		"NegativeColor"								"255 0 0 255"
 		"delta_lifetime"							"2"
 		"delta_item_font"							"default"
-		
+
 		"TimePanelValue" //roundtimer
 		{
 			"ControlName"							"CExLabel"
@@ -210,7 +210,7 @@
 			"enabled"								"1" //1
 			"textAlignment"							"center"
 			"labelText"								"0:00"
-		}	
+		}
 	}
 
 	"TeamStatus"
@@ -273,23 +273,23 @@
 				"visible"		"1"
 				"labelText"		"%playername%"
 			}
-			
+
 			"classimage"
 			{
 				"ControlName"						"CTFClassImage"
 				"fieldName"							"classimage"
 				"xpos"								"cs-0.5"
 				"ypos"								"0"
-				"zpos"								"4"
+				"zpos"								"5"
 				"wide"								"23"
 				"tall"								"22"
 				"visible"							"1"
 				"enabled"							"1"
 				"image"								"../hud/class_scoutred"
-				"scaleImage"						"1"	
+				"scaleImage"						"1"
 				"proportionaltoparent"				"1"
 			}
-			
+
 			"classimagebg"
 			{
 				"ControlName"						"Panel"
@@ -304,50 +304,50 @@
 				"PaintBackgroundType"				"0"
 				"proportionaltoparent"				"1"
 			}
-			
+
 			"healthbar"
-			{	
-				"ControlName"						"ContinuousProgressBar"
-				"fieldName"							"healthbar"
-				"font"								"Default"																		
-				"xpos"								"0"
-				"ypos"								"20"
-				"zpos"								"5"
-				"wide"								"f0"
-				"tall"								"2"				
-				"autoResize"						"0"
-				"pinCorner"							"0"
-				"visible"							"1"
-				"enabled"							"1"
-				"textAlignment"						"Left"
-				"dulltext"							"0"
-				"brighttext"						"0"
-				"bgcolor_override"	  				"25 25 25 255"
-				"proportionaltoparent"				"1"
+			{
+				"ControlName"					"ContinuousProgressBar"
+				"fieldName"						"healthbar"
+				"font"							"Default"
+				"xpos"							"0"
+				"ypos"							"0"
+				"zpos"							"3"
+				"wide"							"f0"
+				"tall"							"22"
+				"autoResize"					"0"
+				"pinCorner"						"0"
+				"visible"						"1"
+				"enabled"						"1"
+				"textAlignment"					"Left"
+				"dulltext"						"0"
+				"brighttext"					"0"
+				"bgcolor_override"	   			"80 80 80 150"
+				"proportionaltoparent"			"1"
 			}
-			
+
 			"overhealbar"
-			{	
-				"ControlName"						"ContinuousProgressBar"
-				"fieldName"							"overhealbar"
-				"font"								"Default"																		
-				"xpos"								"0"
-				"ypos"								"20"
-				"zpos"								"6"
-				"wide"								"f0"
-				"tall"								"2"				
-				"autoResize"						"0"
-				"pinCorner"							"0"
-				"visible"							"1"
-				"enabled"							"1"
-				"textAlignment"						"Left"
-				"dulltext"							"0"
-				"brighttext"						"0"
-				"bgcolor_override"	   				"Blank"
-				"fgcolor_override"	   				"50 255 160 255"
-				"proportionaltoparent"				"1"
+			{
+				"ControlName"					"ContinuousProgressBar"
+				"fieldName"						"overhealbar"
+				"font"							"Default"
+				"xpos"							"0"
+				"ypos"							"0"
+				"zpos"							"4"
+				"wide"							"f0"
+				"tall"							"22"
+				"autoResize"					"0"
+				"pinCorner"						"0"
+				"visible"						"1"
+				"enabled"						"1"
+				"textAlignment"					"Left"
+				"dulltext"						"0"
+				"brighttext"					"0"
+				"bgcolor_override"	   			"Blank"
+				"fgcolor_override"	   			"Health Buff"
+				"proportionaltoparent"			"1"
 			}
-			
+
 			"HealthIcon"
 			{
 				"ControlName"						"EditablePanel"
@@ -358,14 +358,14 @@
 				"wide"								"32"
 				"tall"								"32"
 				"visible"							"0"
-				"enabled"							"1"	
+				"enabled"							"1"
 				"HealthBonusPosAdj"					"10"
 				"HealthDeathWarning"				"0.49"
 				"TFFont"							"HudFontSmallest"
 				"HealthDeathWarningColor"			"HUDDeathWarning"
 				"TextColor"							"HudOffWhite"
 			}
-			
+
 			"respawntime"
 			{
 				"ControlName"						"CExLabel"
@@ -386,7 +386,7 @@
 				"fgcolor_override"					"White"
 				"bgcolor_override"					"0 0 0 85"
 			}
-			
+
 			"ReadyBG"
 			{
 				"ControlName"						"ScalableImagePanel"

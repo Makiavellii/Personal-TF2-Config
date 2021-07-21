@@ -1259,51 +1259,7 @@
 	///////////////////////////////////////////////////////PANELS//////////////////////////////////////////////////////
 	///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-	"FriendsContainer"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldname"									"FriendsContainer"
-		"xpos"										"9999"
-		"ypos"										"9999"
-		"zpos"										"0"
-		"visible"									"0"
-
-		"SteamFriendsList"
-		{
-			"ControlName"							"CSteamFriendsListPanel"
-			"fieldname"								"SteamFriendsList"
-			"xpos"									"9999"
-			"ypos"									"9999"
-			"visible"								"0"
-
-			"columns_count"							"0"
-			"inset_x"								"0"
-			"inset_y"								"0"
-			"row_gap"								"0"
-			"column_gap"							"0"
-			"restrict_width"						"0"
-
-			"friendpanel_kv"
-			{
-				"wide"								"0"
-				"tall"								"0"
-			}
-			
-			"ScrollBar"
-			{
-				"ControlName"						"ScrollBar"
-				"FieldName"							"ScrollBar"
-				"xpos"								"9999"
-				"ypos"								"9999"
-				"nobuttons"							"1"
-
-				"Slider"
-				{
-					"fgcolor_override"				"Blank"
-				}
-			}
-		}
-	}
+	// Fuck off friends panel. Laggy piece of shit
 
 	"Notifications_ShowButtonPanel"
 	{
