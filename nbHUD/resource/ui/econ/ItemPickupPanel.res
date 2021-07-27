@@ -66,7 +66,7 @@
 		"tall"							"f0"
 		"visible"						"1"
 		"enabled"						"1"
-		"image"							"replay/thumbnails/menu/menu_background_blur"
+		"image"							"replay/thumbnails/menu/menu_background"
 		"scaleimage"					"1"
 	}
 	

@@ -6,7 +6,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"xpos"										"c-225"
-		"ypos"										"c147"
+		"ypos"										"c138"
 		"wide"										"f0"
 		"tall"										"480"
 		"MeterFG"									"White"
@@ -30,7 +30,7 @@
 		"textAlignment"								"west"
 		"dulltext"									"0"
 		"brighttext"								"0"
-		"font"										"Product20Bold"
+		"font"										"Size 18"
 		"fgcolor"									"White"
 	}
 	
@@ -51,7 +51,7 @@
 		"textAlignment"								"west"
 		"dulltext"									"0"
 		"brighttext"								"0"
-		"font"										"Product20Bold"
+		"font"										"Size 18"
 		"fgcolor"									"Black"
 		
 		"pin_to_sibling"							"ItemEffectMeterCount"

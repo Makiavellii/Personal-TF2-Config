@@ -88,6 +88,7 @@ Scheme
 
 		"Green"									"0 255 0 255"
 		"GreenLight"							"185 220 25 255"
+		"MintGreen"								"50 255 160 255"
 		
 		"OrangeLight"							"255 200 55 255"
 

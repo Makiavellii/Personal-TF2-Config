@@ -384,7 +384,7 @@
 			"ControlName"							"CExLabel"
 			"fieldName"								"KillsIcon"
 			"font"									"Symbols Scoreboard 12"
-			"fgColor"								"Green"
+			"fgColor"								"MintGreen"
 			"labelText"								":"
 			"textAlignment"							"center"
 			"textinsety"							"-1"
@@ -461,7 +461,7 @@
 			"pinCorner"								"0"
 			"visible"								"1"
 			"enabled"								"1"
-			"fgcolor"								"Green"
+			"fgcolor"								"MintGreen"
 			
 			if_mvm
 			{

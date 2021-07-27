@@ -15,19 +15,19 @@ HUD is a modified version of a HUD that nubbi was making.
 **W** - Weapon Slot 2  
 **R** - Weapon Slot 3  
 **A** - Call Medic  
-**SPACE** - Scope In  
+**SPACE** - Crouch Jump 
 **MOUSE1** - Shoot  
-**MOUSE2** - Crouch Jump  
+**MOUSE2** - Scope In  
 **MOUSE4** - Crouch  
 **SCROLLUP** - Regular Jump  
 
 # Settings
 **MOUSE** - Glorious Model O-  
-**MOUSEPAD** - SteelSeries QcK+   
-**DPI** - 500  
-**POLLING RATE** - 500hz  
+**MOUSEPAD** - Ducky Flipper Extra R   
+**DPI** - 1,600  
+**POLLING RATE** - 1000hz  
 **WINDOWS SENSITIVITY** - 6/11  
-**IN GAME SENSITIVITY** - 2.7  
-**EDPI** - 1,350 (dpi * ingame)  
-**DISTANCE** - 30.8cm/360 | 12.1in/360  
+**IN GAME SENSITIVITY** - 0.85  
+**EDPI** - 1,360 (dpi * ingame)  
+**DISTANCE** - 30.5cm/360 | 12in/360  
 **ZOOM SENSITIVITY RATIO** - 1  
