@@ -1,1 +1,0 @@
-#base "resource\ui\Removed\XPSourcePanel.res"
