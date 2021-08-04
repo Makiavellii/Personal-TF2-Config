@@ -15,7 +15,7 @@ HUD is KBN HUD.
 **W** - Weapon Slot 2  
 **R** - Weapon Slot 3  
 **A** - Call Medic  
-**SPACE** - Crouch Jump 
+**SPACE** - Crouch Jump  
 **MOUSE1** - Shoot  
 **MOUSE2** - Scope In  
 **MOUSE4** - Crouch  
