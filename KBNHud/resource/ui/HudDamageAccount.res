@@ -16,7 +16,7 @@
 	{
 		"fgcolor"		"144 223 23 255"
 		
-		"ControlName"	"CExLabel"
+		"ControlName"	"ceXLabel"
 		"fieldName"		"DamageAccountValue"
 		"xpos"			"c-130"
 		"ypos"			"c52"
@@ -27,14 +27,14 @@
 		"enabled"		"1"
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
-		"font"			"MavenProBlack14"
+		"font"			"MavenProMedium14"
 		"fgcolor_override"			"Damage Numbers"	
 	}
 	"DamageAccountValueShadow"
 	{
 		"fgcolor"		"0 0 0 255"
 		
-		"ControlName"	"CExLabel"
+		"ControlName"	"ceXLabel"
 		"fieldName"		"DamageAccountValueShadow"
 		"xpos"			"c-129"
 		"ypos"			"c53"
@@ -45,6 +45,6 @@
 		"enabled"		"1"
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
-		"font"			"MavenProBlack14"
+		"font"			"MavenProMedium14"
 	}
 }

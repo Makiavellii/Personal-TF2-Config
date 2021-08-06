@@ -7,20 +7,20 @@
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"KnucklesCrosses"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"c-25"
 		"ypos"			"c-25"
 		"wide"			"51"
-		"tall"			"52"
+		"tall"			"51"
 
 		"font"			"size:13,outline:on"
 		"labelText"		"l"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"255 0 0 255"
+		"fgcolor"		"0 128 255 255"
 	}	
 	DefaultHitmarker
 	{
