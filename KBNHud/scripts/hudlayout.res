@@ -17,11 +17,31 @@
 		"tall"			"51"
 
 		"font"			"size:13,outline:on"
-		"labelText"		"l"
+		"labelText"		"a"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"0 128 255 255"
+		"fgcolor"		"255 0 0 255"
 	}	
+
+	KnucklesCrosses2
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"KnucklesCrosses2"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-25"
+		"wide"			"51"
+		"tall"			"51"
+
+		"font"			"size:13,outline:on"
+		"labelText"		"i"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
 	DefaultHitmarker
 	{
 		"controlName"	"CExLabel"

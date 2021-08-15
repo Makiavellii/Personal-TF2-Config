@@ -4,7 +4,7 @@ Github repo to house my personal TF2 custom folder.
 HUD is KBN HUD.
 
 # Launch Options
--dxlevel 80 +clientport 27006-27014 -32bit -full -width 1920 -height 1080 -freq 144 -console -novid -nojoy -reuse -nosteamcontroller -nohltv -particles 1 -precachefontchars -r_emulate_gl  
+-dxlevel 80 -32bit -full -width 1920 -height 1080 -freq 144 -console -novid -nojoy -reuse -nosteamcontroller -nohltv -particles 1 -precachefontchars -no_texture_stream
 
 # Binds
 **E** - Move Forward  
@@ -22,12 +22,12 @@ HUD is KBN HUD.
 **SCROLLUP** - Regular Jump  
 
 # Settings
-**MOUSE** - Glorious Model O-  
+**MOUSE** - Logitech G Pro HERO  
 **MOUSEPAD** - SteelSeries QcK+   
 **DPI** - 800  
 **POLLING RATE** - 1000hz  
 **WINDOWS SENSITIVITY** - 6/11  
-**IN GAME SENSITIVITY** - 1.7  
+**IN GAME SENSITIVITY** - 2.2  
 **EDPI** - 1,600 (dpi * ingame)  
-**DISTANCE** - 15.9cm/360 | 10.2in/360  
+**DISTANCE** - 23.7cm/360 | 9.3in/360  
 **ZOOM SENSITIVITY RATIO** - 1  
